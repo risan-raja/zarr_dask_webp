@@ -1,0 +1,8 @@
+zarr
+numpy
+Pillow
+dask
+distributed
+tqdm
+glymur
+numcodecs
